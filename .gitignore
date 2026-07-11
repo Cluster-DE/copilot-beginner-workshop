@@ -1,0 +1,12 @@
+.DS_Store
+
+# Lokale Trainer-Pointer-Datei (wird von der Copilot CLI automatisch
+# geladen) – gehoert NICHT ins Teilnehmer-Repo.
+CLAUDE.md
+
+# Maven-Build-Artefakte (entstehen bei jedem `mvn test`)
+target/
+
+# In Ue2 generierte Testdaten (generate-logs.sh / .ps1)
+modul-4/logs/
+modul-4/archive/
