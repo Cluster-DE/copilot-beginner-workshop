@@ -1,9 +1,9 @@
 # Modul 3 · Billing-Quiz, Szenario-Rechnung & Budget-Design (~20 Min, Plenum/Teams)
 
-Kein Code – Diskussion und Kopfrechnen. Stand: Juli 2026 (AI Credits,
+Kein Code, nur Diskussion und Kopfrechnen. Stand: Juli 2026 (AI Credits,
 Usage-Based Billing seit 01.06.2026).
 
-## Teil 1: Quiz – „Verbraucht das AI Credits?"
+## Teil 1: Quiz „Verbraucht das AI Credits?"
 
 | # | Aktion                                             | Credits? |
 |---|----------------------------------------------------|----------|
@@ -27,24 +27,24 @@ Team: **10 Entwickler:innen**, 20 Arbeitstage/Monat. Annahmen:
 
 **Fragen:**
 1. Wie viele Credits verbraucht das Team pro Monat? (1 Credit = 0,01 USD)
-2. Was kostet das in USD – und was davon ist der größte Hebel?
-3. Welche zwei Admin-Maßnahmen würdet ihr zuerst einrichten?
+2. Was kostet das in USD, und was davon ist der größte Hebel?
+3. Welche zwei Admin-Maßnahmen würdest Du zuerst einrichten?
 
-*(Die Annahmen sind Workshop-Beispiele, keine offiziellen Preise –
-reale Werte hängen von Modellwahl und Kontextgröße ab.)*
+*(Die Annahmen sind Workshop-Beispiele, keine offiziellen Preise.
+Reale Werte hängen von Modellwahl und Kontextgröße ab.)*
 
 ## Teil 3: Budget-Design (~5 Min, Diskussion)
 
-Euer Beispielteam aus Teil 2 (10 Entwickler:innen, Copilot Business):
+Dein Beispielteam aus Teil 2 (10 Entwickler:innen, Copilot Business):
 
 1. **Der Pool:** Jede Lizenz bringt ihr Credit-Guthaben in den gemeinsamen
    Enterprise-Pool ein (Business: 19 $ = 1.900 Credits pro Lizenz).
-   Wie groß ist der Monats-Pool des Teams – und reicht er für den
+   Wie groß ist der Monats-Pool des Teams, und reicht er für den
    Verbrauch aus Teil 2?
 2. **Fair oder 80/20?** Zwei der zehn sind erkennbare Power-User.
-   Universelle User-Budgets für alle – oder individuelle Limits?
+   Universelle User-Budgets für alle, oder individuelle Limits?
 3. **Alerts:** Warn-Mails gehen bei 75 / 90 / 100 % an die Admins.
-   Wer sollte das bei euch sein – und was passiert bei 90 %?
+   Wer sollte das bei Dir sein, und was passiert bei 90 %?
 4. **Stopp-Risiko:** Budget erreicht = User blockiert (kein Fallback!).
-   Für welche Teams wäre das mitten im Sprint akzeptabel – und wo
-   braucht ihr ein Cost-Center-Zusatzbudget?
+   Für welche Teams wäre das mitten im Sprint akzeptabel, und wo
+   brauchst Du ein Cost-Center-Zusatzbudget?
