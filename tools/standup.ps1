@@ -3,5 +3,6 @@
 # --allow-tool="shell(git:*)" gibt ausschliesslich git-Befehle frei – minimale Rechte.
 param([int]$N = 5)
 
-copilot -p "Fasse die letzten $N Commits als Bullet-Liste zusammen" `
-        -s --allow-tool="shell(git:*)"
+copilot -s `
+        --allow-tool="shell(git:*)" `
+        -p "Fasse die letzten $N Commits als Bullet-Liste zusammen"

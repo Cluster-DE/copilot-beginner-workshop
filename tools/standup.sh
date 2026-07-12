@@ -5,5 +5,6 @@
 set -euo pipefail
 
 N=${1:-5}
-copilot -p "Fasse die letzten ${N} Commits als Bullet-Liste zusammen" \
-        -s --allow-tool="shell(git:*)"
+copilot -s \
+        --allow-tool="shell(git:*)" \
+        -p "Fasse die letzten ${N} Commits als Bullet-Liste zusammen"
