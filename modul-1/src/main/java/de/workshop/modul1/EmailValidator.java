@@ -18,4 +18,19 @@ public final class EmailValidator {
     // Tipp: Kommentar + Methodensignatur tippen und Copilots Vorschläge
     // mit Alt+] / Alt+[ durchblättern, bevor du übernimmst.
 
+    public static boolean isValid(String email) {
+        if (email == null) {
+            return false;
+        }
+
+        int atIndex = email.indexOf('@');
+        if (atIndex <= 0 || atIndex != email.lastIndexOf('@')) {
+            return false;
+        }
+
+        String domain = email.substring(atIndex + 1);
+        int dotIndex = domain.indexOf('.');
+        return dotIndex > 0 && dotIndex < domain.length() - 1;
+    }
+
 }
