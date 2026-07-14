@@ -1,0 +1,1073 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Author (Reply)
+/CreationDate (D\07220260708122018\05300\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260708122018\05300\04700\047)
+/Subject (\050unspecified\051)
+/Title (Copilot CLI \046 IntelliJ \205 Referenz)
+/Trapped (\057False)
+/Copyright (\251 2026 W\374stenrot \267 Reply \204 Alle Rechte vorbehalten\056)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 13 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.18
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 12591
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.431373 .25098 .788235 rg
+n 0 833.3858 595.2756 8.503937 re f*
+.121569 .141176 .188235 rg
+BT /F2 15 Tf 18 TL ET
+BT 1 0 0 1 34.01575 803.622 Tm (Copilot CLI & IntelliJ \226 Referenz) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+.341176 .376471 .415686 rg
+BT 1 0 0 1 34.01575 789.4488 Tm (GitHub Copilot Beginner-Workshop \267 13.07.2026 \267 Reply) Tj T* ET
+BT 1 0 0 1 453.6918 789.4488 Tm (Stand: Juli 2026 \267 Seite 1/2) Tj T* ET
+BT /F1 7 Tf 8.4 TL ET
+.341176 .376471 .415686 rg
+BT 1 0 0 1 34.01575 18.4252 Tm (Handout \267 GitHub Copilot Beginner-Workshop \267 Reply) Tj T* ET
+BT 1 0 0 1 312.2558 18.4252 Tm (Quellen: offizielles GitHub-Partnermaterial \226 \304nderungen: github.blog/changelog) Tj T* ET
+Q
+q
+1 0 0 1 34.01575 610.6929 cm
+q
+.964706 .972549 .980392 rg
+n 0 160 256.5354 -160 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 9 140 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Was die Copilot CLI ist) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 100 cm
+q
+BT 1 0 0 1 0 27.2 Tm /F1 10 Tf 12 TL .121569 .141176 .188235 rg (\177) Tj ET
+BT 1 0 0 1 8 27.2 Tm 1.5 0 Td 12 TL /F1 8.8 Tf .121569 .141176 .188235 rg (Der ) Tj /F2 8.8 Tf (Coding Agent in Ihrem Terminal) Tj /F1 8.8 Tf (: liest Dateien,) Tj T* -1.5 0 Td (schreibt Code, f\374hrt Befehle aus \226 Sie best\344tigen jeden) Tj T* (Schritt.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 74 cm
+q
+BT 1 0 0 1 0 15.2 Tm /F1 10 Tf 12 TL .121569 .141176 .188235 rg (\177) Tj ET
+.121569 .141176 .188235 rg
+BT 1 0 0 1 8 15.2 Tm /F1 8.8 Tf 12 TL 1.5 0 Td (Gleiche Agent-Basis \(\204Harness\223\) wie der Copilot Coding) Tj T* -1.5 0 Td (Agent in der Cloud.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 48 cm
+q
+BT 1 0 0 1 0 15.2 Tm /F1 10 Tf 12 TL .121569 .141176 .188235 rg (\177) Tj ET
+BT 1 0 0 1 8 15.2 Tm 1.5 0 Td 12 TL /F1 8.8 Tf .121569 .141176 .188235 rg (GitHub eingebaut: Repos, Issues & PRs per nat\374rlicher) Tj T* -1.5 0 Td (Sprache.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 22 cm
+q
+BT 1 0 0 1 0 15.2 Tm /F1 10 Tf 12 TL .121569 .141176 .188235 rg (\177) Tj ET
+.121569 .141176 .188235 rg
+BT 1 0 0 1 8 15.2 Tm /F1 8.8 Tf 12 TL 1.5 0 Td (Editor-unabh\344ngig \226 funktioniert mit jedem Setup, auch) Tj T* -1.5 0 Td (remote/SSH.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 8 cm
+q
+BT 1 0 0 1 0 3.2 Tm /F1 10 Tf 12 TL .121569 .141176 .188235 rg (\177) Tj ET
+BT 1 0 0 1 8 3.2 Tm 1.5 0 Td 12 TL /F1 8.8 Tf .121569 .141176 .188235 rg (Erweiterbar \374ber MCP-Server, Custom Agents & Skills.) Tj T* -1.5 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.847059 .858824 .886275 RG
+.75 w
+n 0 160 m 256.5354 160 l S
+n 0 0 m 256.5354 0 l S
+n 0 0 m 0 160 l S
+n 256.5354 0 m 256.5354 160 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 604.4567 cm
+Q
+q
+1 0 0 1 34.01575 480.4567 cm
+q
+.964706 .972549 .980392 rg
+n 0 124 256.5354 -124 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 9 104 cm
+q
+BT 1 0 0 1 0 2.5 Tm 13 TL /F2 10.5 Tf .298039 .164706 .54902 rg (Betriebsarten & Agent-Modi) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 8 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 79.5 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.8 Tm /F3 8.2 Tf 11 TL (copilot) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.33134 79.5 cm
+q
+.121569 .141176 .188235 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.4 Tf 11 TL (interaktive Session im Projektordner) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 65.5 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.8 Tm /F3 8.2 Tf 11 TL (copilot -p \204\205\223) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.33134 65.5 cm
+q
+.121569 .141176 .188235 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.4 Tf 11 TL (programmatisch \226 Skripte, Aliasse, CI) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 51.5 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.8 Tm /F3 8.2 Tf 11 TL (/plan) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.33134 51.5 cm
+q
+.121569 .141176 .188235 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.4 Tf 11 TL (erst Plan pr\374fen, dann umsetzen lassen) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 37.5 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.8 Tm /F3 8.2 Tf 11 TL (Shift+Tab) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.33134 26.5 cm
+q
+.121569 .141176 .188235 rg
+BT 1 0 0 1 0 13.6 Tm /F1 8.4 Tf 11 TL (Autopilot \226 arbeitet selbstst\344ndig bis zum) Tj T* (Ziel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 12.5 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.8 Tm /F3 8.2 Tf 11 TL (/delegate) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.33134 1.5 cm
+q
+.121569 .141176 .188235 rg
+BT 1 0 0 1 0 13.6 Tm /F1 8.4 Tf 11 TL (Task an den Cloud Coding Agent ) Tj /F4 8.4 Tf 11 TL (\256) Tj /F1 8.4 Tf 11 TL T* (Branch + Draft-PR) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 J
+1 j
+.847059 .858824 .886275 RG
+.75 w
+n 0 124 m 256.5354 124 l S
+n 0 0 m 256.5354 0 l S
+n 0 0 m 0 124 l S
+n 256.5354 0 m 256.5354 124 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 474.2205 cm
+Q
+q
+1 0 0 1 34.01575 269.2205 cm
+q
+.964706 .972549 .980392 rg
+n 0 205 256.5354 -205 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 9 185 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Slash-Commands) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 8 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 160.5 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.8 Tm /F3 8.2 Tf 11 TL (/model) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66.78992 160.5 cm
+q
+.121569 .141176 .188235 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.4 Tf 11 TL (Modell w\344hlen / Angebot zeigen) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 146.5 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.8 Tm /F3 8.2 Tf 11 TL (/context) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66.78992 146.5 cm
+q
+.121569 .141176 .188235 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.4 Tf 11 TL (zeigt, was die CLI gerade sieht) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 132.5 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.8 Tm /F3 8.2 Tf 11 TL (/usage) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66.78992 132.5 cm
+q
+.121569 .141176 .188235 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.4 Tf 11 TL (Credit-Verbrauch der Session) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 118.5 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.8 Tm /F3 8.2 Tf 11 TL (/compact) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66.78992 118.5 cm
+q
+.121569 .141176 .188235 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.4 Tf 11 TL (Verlauf eindampfen \226 spart Tokens) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 104.5 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.8 Tm /F3 8.2 Tf 11 TL (/review) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66.78992 104.5 cm
+q
+.121569 .141176 .188235 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.4 Tf 11 TL (Code-Review anfordern) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 90.5 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.8 Tm /F3 8.2 Tf 11 TL (/mcp) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66.78992 90.5 cm
+q
+.121569 .141176 .188235 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.4 Tf 11 TL (MCP-Server verwalten) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 76.5 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.8 Tm /F3 8.2 Tf 11 TL (/agents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66.78992 76.5 cm
+q
+.121569 .141176 .188235 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.4 Tf 11 TL (Custom Agents anzeigen/nutzen) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 62.5 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.8 Tm /F3 8.2 Tf 11 TL (/rubber-duck) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66.78992 51.5 cm
+q
+.121569 .141176 .188235 rg
+BT 1 0 0 1 0 13.6 Tm /F1 8.4 Tf 11 TL (adversariales Feedback \226 die Quietscheente) Tj T* (\(an\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 26.5 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 13.8 Tm /F3 8.2 Tf 11 TL (/plugins \267) Tj T* (/sandbox) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66.78992 26.5 cm
+q
+.121569 .141176 .188235 rg
+BT 1 0 0 1 0 13.6 Tm /F1 8.4 Tf 11 TL (Plugins verwalten \267 Sandbox-Regeln \(neu) Tj T* (07/2026\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 1.5 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 13.8 Tm /F3 8.2 Tf 11 TL (/login \267) Tj T* (/help) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66.78992 12.5 cm
+q
+.121569 .141176 .188235 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.4 Tf 11 TL (Anmeldung \267 alle Befehle) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 J
+1 j
+.847059 .858824 .886275 RG
+.75 w
+n 0 205 m 256.5354 205 l S
+n 0 0 m 256.5354 0 l S
+n 0 0 m 0 205 l S
+n 256.5354 0 m 256.5354 205 l S
+Q
+Q
+Q
+q
+1 0 0 1 304.7244 648.6929 cm
+q
+.964706 .972549 .980392 rg
+n 0 122 256.5354 -122 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 9 102 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Kontext steuern) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 74 cm
+q
+BT 1 0 0 1 0 15.2 Tm /F1 10 Tf 12 TL .121569 .141176 .188235 rg (\177) Tj ET
+BT 1 0 0 1 8 15.2 Tm 1.5 0 Td 12 TL /F2 8.8 Tf .121569 .141176 .188235 rg (Im richtigen Ordner starten) Tj /F1 8.8 Tf ( \226 das Verzeichnis ist der) Tj T* -1.5 0 Td (Kontext.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 60 cm
+q
+BT 1 0 0 1 0 3.2 Tm /F1 10 Tf 12 TL .121569 .141176 .188235 rg (\177) Tj ET
+BT 1 0 0 1 8 3.2 Tm 1.5 0 Td 12 TL /F2 8.8 Tf .121569 .141176 .188235 rg (Dateipfade nennen) Tj /F1 8.8 Tf ( statt \204die Klasse von vorhin\223.) Tj T* -1.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 9 46 cm
+q
+BT 1 0 0 1 0 3.2 Tm /F1 10 Tf 12 TL .121569 .141176 .188235 rg (\177) Tj ET
+BT 1 0 0 1 8 3.2 Tm 1.5 0 Td 12 TL /F2 8.8 Tf .121569 .141176 .188235 rg (Neue Session, neues Thema) Tj /F1 8.8 Tf ( \226 Altlasten raus.) Tj T* -1.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 9 8 cm
+q
+BT 1 0 0 1 0 27.2 Tm /F1 10 Tf 12 TL .121569 .141176 .188235 rg (\177) Tj ET
+BT 1 0 0 1 8 27.2 Tm 1.5 0 Td 12 TL /F2 8.8 Tf .121569 .141176 .188235 rg (AGENTS.md) Tj /F1 8.8 Tf ( im Repo-Root: Dauer-Regeln f\374r jede) Tj T* -1.5 0 Td (Session und jeden Agent-Lauf \226 liegt im Repo, also im) Tj T* (Review-Prozess.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.847059 .858824 .886275 RG
+.75 w
+n 0 122 m 256.5354 122 l S
+n 0 0 m 256.5354 0 l S
+n 0 0 m 0 122 l S
+n 256.5354 0 m 256.5354 122 l S
+Q
+Q
+Q
+q
+1 0 0 1 310.7244 642.4567 cm
+Q
+q
+1 0 0 1 304.7244 518.4567 cm
+q
+.952941 .933333 .984314 rg
+n 0 124 256.5354 -124 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 9 104 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Sicherheit im Terminal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 88 cm
+q
+BT 1 0 0 1 0 3.2 Tm /F1 10 Tf 12 TL .121569 .141176 .188235 rg (\177) Tj ET
+BT 1 0 0 1 8 3.2 Tm 1.5 0 Td 12 TL /F1 8.8 Tf .121569 .141176 .188235 rg (Jede Aktion ) Tj /F2 8.8 Tf (lesen, verstehen, dann best\344tigen) Tj /F1 8.8 Tf (.) Tj T* -1.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 9 74 cm
+q
+BT 1 0 0 1 0 3.2 Tm /F1 10 Tf 12 TL .121569 .141176 .188235 rg (\177) Tj ET
+.121569 .141176 .188235 rg
+BT 1 0 0 1 8 3.2 Tm /F1 8.8 Tf 12 TL 1.5 0 Td (Ordner-Trust bewusst vergeben.) Tj T* -1.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 9 60 cm
+q
+BT 1 0 0 1 0 3.2 Tm /F1 10 Tf 12 TL .121569 .141176 .188235 rg (\177) Tj ET
+BT 1 0 0 1 8 3.2 Tm 1.5 0 Td 12 TL /F2 8.8 Tf .121569 .141176 .188235 rg (Keine Secrets in Prompts) Tj /F1 8.8 Tf ( \226 auch nicht \204nur zum Testen\223.) Tj T* -1.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 9 34 cm
+q
+BT 1 0 0 1 0 15.2 Tm /F1 10 Tf 12 TL .121569 .141176 .188235 rg (\177) Tj ET
+BT 1 0 0 1 8 15.2 Tm 1.5 0 Td 12 TL /F1 8.8 Tf .121569 .141176 .188235 rg (Autopilot & Auto-Approve nur in sicheren Umgebungen) Tj T* -1.5 0 Td (\(Branch, Container\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 8 cm
+q
+BT 1 0 0 1 0 15.2 Tm /F1 10 Tf 12 TL .121569 .141176 .188235 rg (\177) Tj ET
+.121569 .141176 .188235 rg
+BT 1 0 0 1 8 15.2 Tm /F1 8.8 Tf 12 TL 1.5 0 Td (Vor jedem Agent-Lauf committen \226 Verwerfen bleibt) Tj T* -1.5 0 Td (gefahrlos.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.847059 .858824 .886275 RG
+.75 w
+n 0 124 m 256.5354 124 l S
+n 0 0 m 256.5354 0 l S
+n 0 0 m 0 124 l S
+n 256.5354 0 m 256.5354 124 l S
+Q
+Q
+Q
+q
+1 0 0 1 310.7244 512.2205 cm
+Q
+q
+1 0 0 1 304.7244 381.2205 cm
+q
+.964706 .972549 .980392 rg
+n 0 131 256.5354 -131 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 9 111 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (F\374nf Rezepte f\374r den Alltag) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 85 cm
+q
+.121569 .141176 .188235 rg
+BT 1 0 0 1 0 14.4 Tm /F5 7.6 Tf 11 TL (copilot -p \204Fasse die \304nderungen der letzten 5) Tj T* (Commits zusammen\223) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 63 cm
+q
+.121569 .141176 .188235 rg
+BT 1 0 0 1 0 14.4 Tm /F5 7.6 Tf 11 TL (copilot -p \204Commit-Message f\374r staged \304nderungen) Tj T* (\(Conventional Commits\)\223) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 41 cm
+q
+.121569 .141176 .188235 rg
+BT 1 0 0 1 0 14.4 Tm /F5 7.6 Tf 11 TL (copilot -p \204Was hat sich zwischen main und meinem) Tj T* (Branch ge\344ndert?\223) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 30 cm
+q
+.121569 .141176 .188235 rg
+BT 1 0 0 1 0 3.4 Tm /F5 7.6 Tf 11 TL (copilot -p \204Finde Auff\344lligkeiten in build.log\223) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 8 cm
+q
+.121569 .141176 .188235 rg
+BT 1 0 0 1 0 14.4 Tm /F5 7.6 Tf 11 TL (copilot -p \204Release-Notes aus den Commits seit dem) Tj T* (letzten Tag\223) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.847059 .858824 .886275 RG
+.75 w
+n 0 131 m 256.5354 131 l S
+n 0 0 m 256.5354 0 l S
+n 0 0 m 0 131 l S
+n 256.5354 0 m 256.5354 131 l S
+Q
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 7 Tf
+8.4 TL
+ET
+0.35 0.35 0.35 rg
+BT
+1 0 0 1 132.0668 6 Tm
+(\251 2026 W\374stenrot \267 Reply \227 Alle Rechte vorbehalten\056 Vertraulich\054 nur f\374r interne Schulungszwecke\056) Tj
+T*
+ET
+q
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+/F2-0 46 Tf
+55.2 TL
+ET
+0.75 0.75 0.75 rg
+/gRLs0 gs
+BT
+1 0 0 1 -218.868 0 Tm
+(\251 W\374stenrot \267 Reply) Tj
+T*
+ET
+Q
+Q
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Courier-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Symbol
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F5
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+13 0 obj
+<<
+/Contents 14 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.18
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 15 0 R
+/F2 8 0 R
+/F2-0 16 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 6084
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.431373 .25098 .788235 rg
+n 0 833.3858 595.2756 8.503937 re f*
+.121569 .141176 .188235 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 34.01575 814.9606 Tm (Copilot CLI & IntelliJ \226 Referenz) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+.341176 .376471 .415686 rg
+BT 1 0 0 1 453.6918 814.9606 Tm (Stand: Juli 2026 \267 Seite 2/2) Tj T* ET
+BT /F1 7 Tf 8.4 TL ET
+.341176 .376471 .415686 rg
+BT 1 0 0 1 34.01575 18.4252 Tm (Handout \267 GitHub Copilot Beginner-Workshop \267 Reply) Tj T* ET
+BT 1 0 0 1 312.2558 18.4252 Tm (Quellen: offizielles GitHub-Partnermaterial \226 \304nderungen: github.blog/changelog) Tj T* ET
+Q
+q
+1 0 0 1 34.01575 660.0394 cm
+q
+.964706 .972549 .980392 rg
+n 0 139 256.5354 -139 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 9 106 cm
+q
+BT 1 0 0 1 0 15.5 Tm 13 TL /F2 10.5 Tf .298039 .164706 .54902 rg (IntelliJ & JetBrains \226 Stand 2026: weitgehend) Tj T* (gleichauf) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 90 cm
+q
+BT 1 0 0 1 0 3.2 Tm /F1 10 Tf 12 TL .121569 .141176 .188235 rg (\177) Tj ET
+BT 1 0 0 1 8 3.2 Tm 1.5 0 Td 12 TL /F1 8.8 Tf .121569 .141176 .188235 rg (Completions & Next Edit Suggestions) Tj T* -1.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 9 76 cm
+q
+BT 1 0 0 1 0 3.2 Tm /F1 10 Tf 12 TL .121569 .141176 .188235 rg (\177) Tj ET
+BT 1 0 0 1 8 3.2 Tm 1.5 0 Td 12 TL /F1 8.8 Tf .121569 .141176 .188235 rg (Chat, Inline-Chat & Inline-Agent) Tj T* -1.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 9 50 cm
+q
+BT 1 0 0 1 0 15.2 Tm /F1 10 Tf 12 TL .121569 .141176 .188235 rg (\177) Tj ET
+BT 1 0 0 1 8 15.2 Tm 1.5 0 Td 12 TL /F1 8.8 Tf .121569 .141176 .188235 rg (Agent Mode inkl. Custom-, Sub- & Plan-Agents \(GA seit) Tj T* -1.5 0 Td (03/2026\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 36 cm
+q
+BT 1 0 0 1 0 3.2 Tm /F1 10 Tf 12 TL .121569 .141176 .188235 rg (\177) Tj ET
+.121569 .141176 .188235 rg
+BT 1 0 0 1 8 3.2 Tm /F1 8.8 Tf 12 TL 1.5 0 Td (MCP-Support mit Auto-Approve-Regeln) Tj T* -1.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 9 22 cm
+q
+BT 1 0 0 1 0 3.2 Tm /F1 10 Tf 12 TL .121569 .141176 .188235 rg (\177) Tj ET
+BT 1 0 0 1 8 3.2 Tm 1.5 0 Td 12 TL /F1 8.8 Tf .121569 .141176 .188235 rg (Copilot-CLI-Integration & Unified-Sessions-Ansicht) Tj T* -1.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 9 8 cm
+q
+BT 1 0 0 1 0 3.2 Tm /F1 10 Tf 12 TL .121569 .141176 .188235 rg (\177) Tj ET
+.121569 .141176 .188235 rg
+BT 1 0 0 1 8 3.2 Tm /F1 8.8 Tf 12 TL 1.5 0 Td (Copilot als Agent im JetBrains AI Assistant \(06/2026\)) Tj T* -1.5 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.847059 .858824 .886275 RG
+.75 w
+n 0 139 m 256.5354 139 l S
+n 0 0 m 256.5354 0 l S
+n 0 0 m 0 139 l S
+n 256.5354 0 m 256.5354 139 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 653.8031 cm
+Q
+q
+1 0 0 1 34.01575 571.8031 cm
+q
+.964706 .972549 .980392 rg
+n 0 82 256.5354 -82 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 9 62 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (IntelliJ-Setup) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 34 cm
+q
+BT 1 0 0 1 0 15.2 Tm /F1 10 Tf 12 TL .121569 .141176 .188235 rg (\177) Tj ET
+BT 1 0 0 1 8 15.2 Tm 1.5 0 Td 12 TL /F1 8.8 Tf .121569 .141176 .188235 rg (Plugin ) Tj /F2 8.8 Tf (\204GitHub Copilot\223) Tj /F1 8.8 Tf ( installieren ) Tj /F4 8.8 Tf 12 TL (\256) Tj /F1 8.8 Tf 12 TL ( OAuth-Login mit) Tj T* -1.5 0 Td (dem GitHub-Account.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 8 cm
+q
+BT 1 0 0 1 0 15.2 Tm /F1 10 Tf 12 TL .121569 .141176 .188235 rg (\177) Tj ET
+BT 1 0 0 1 8 15.2 Tm 1.5 0 Td 12 TL /F1 8.8 Tf .121569 .141176 .188235 rg (Business/Enterprise: F\374r Preview-Features muss die) Tj T* -1.5 0 Td /F2 8.8 Tf (Editor-Preview-Policy) Tj /F1 8.8 Tf ( der Org aktiviert sein.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.847059 .858824 .886275 RG
+.75 w
+n 0 82 m 256.5354 82 l S
+n 0 0 m 256.5354 0 l S
+n 0 0 m 0 82 l S
+n 256.5354 0 m 256.5354 82 l S
+Q
+Q
+Q
+q
+1 0 0 1 304.7244 692.0394 cm
+q
+.964706 .972549 .980392 rg
+n 0 107 256.5354 -107 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 9 87 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Wann IDE, wann CLI?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 8 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 62.5 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.8 Tm /F3 8.2 Tf 11 TL (IDE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.70709 51.5 cm
+q
+BT 1 0 0 1 0 13.6 Tm 11 TL /F1 8.4 Tf .121569 .141176 .188235 rg (tippen & navigieren: Completions, NES,) Tj T* (Inline-Chat beim Schreiben) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 37.5 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.8 Tm /F3 8.2 Tf 11 TL (CLI) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.70709 26.5 cm
+q
+BT 1 0 0 1 0 13.6 Tm 11 TL /F1 8.4 Tf .121569 .141176 .188235 rg (beauftragen & delegieren: Repo-Aufgaben,) Tj T* (Skripte, /plan, /delegate) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 12.5 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.8 Tm /F3 8.2 Tf 11 TL (Beides) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.70709 1.5 cm
+q
+.121569 .141176 .188235 rg
+BT 1 0 0 1 0 13.6 Tm /F1 8.4 Tf 11 TL (gleiche Lizenz, gleiche Regeln \(AGENTS.md wirkt) Tj T* (\374berall\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 J
+1 j
+.847059 .858824 .886275 RG
+.75 w
+n 0 107 m 256.5354 107 l S
+n 0 0 m 256.5354 0 l S
+n 0 0 m 0 107 l S
+n 256.5354 0 m 256.5354 107 l S
+Q
+Q
+Q
+q
+1 0 0 1 310.7244 685.8031 cm
+Q
+q
+1 0 0 1 304.7244 617.8031 cm
+q
+.952941 .933333 .984314 rg
+n 0 68 256.5354 -68 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 9 48 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Praxis-Hinweis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 8 cm
+q
+.121569 .141176 .188235 rg
+BT 1 0 0 1 0 27.2 Tm /F1 8.8 Tf 12 TL (Neue Features landen meist zuerst in VS Code \226 die) Tj T* (JetBrains-L\374cke ist 2026 klein geworden. Referenz f\374r den) Tj T* (aktuellen Stand: github.blog/changelog.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.847059 .858824 .886275 RG
+.75 w
+n 0 68 m 256.5354 68 l S
+n 0 0 m 256.5354 0 l S
+n 0 0 m 0 68 l S
+n 256.5354 0 m 256.5354 68 l S
+Q
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 7 Tf
+8.4 TL
+ET
+0.35 0.35 0.35 rg
+BT
+1 0 0 1 132.0668 6 Tm
+(\251 2026 W\374stenrot \267 Reply \227 Alle Rechte vorbehalten\056 Vertraulich\054 nur f\374r interne Schulungszwecke\056) Tj
+T*
+ET
+q
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+/F2-0 46 Tf
+55.2 TL
+ET
+0.75 0.75 0.75 rg
+/gRLs0 gs
+BT
+1 0 0 1 -218.868 0 Tm
+(\251 W\374stenrot \267 Reply) Tj
+T*
+ET
+Q
+Q
+
+endstream
+endobj
+15 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+16 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000015 00000 n 
+0000000434 00000 n 
+0000000500 00000 n 
+0000000549 00000 n 
+0000000876 00000 n 
+0000013520 00000 n 
+0000013627 00000 n 
+0000013734 00000 n 
+0000013846 00000 n 
+0000013958 00000 n 
+0000014069 00000 n 
+0000014147 00000 n 
+0000014253 00000 n 
+0000014584 00000 n 
+0000020721 00000 n 
+0000020829 00000 n 
+trailer
+<<
+/Size 17
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+20942
+%%EOF

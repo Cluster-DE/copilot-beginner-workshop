@@ -1,0 +1,1044 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Author (Reply)
+/CreationDate (D\07220260708122018\05300\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260708122018\05300\04700\047)
+/Subject (\050unspecified\051)
+/Title (Usage\055Based Billing \046 Prompt Best Practices)
+/Trapped (\057False)
+/Copyright (\251 2026 W\374stenrot \267 Reply \204 Alle Rechte vorbehalten\056)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 12 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.18
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 11475
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.431373 .25098 .788235 rg
+n 0 833.3858 595.2756 8.503937 re f*
+.121569 .141176 .188235 rg
+BT /F2 15 Tf 18 TL ET
+BT 1 0 0 1 34.01575 803.622 Tm (Usage-Based Billing & Prompt Best Practices) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+.341176 .376471 .415686 rg
+BT 1 0 0 1 34.01575 789.4488 Tm (GitHub Copilot Beginner-Workshop \267 13.07.2026 \267 Reply) Tj T* ET
+BT 1 0 0 1 453.6918 789.4488 Tm (Stand: Juli 2026 \267 Seite 1/2) Tj T* ET
+BT /F1 7 Tf 8.4 TL ET
+.341176 .376471 .415686 rg
+BT 1 0 0 1 34.01575 18.4252 Tm (Handout \267 GitHub Copilot Beginner-Workshop \267 Reply) Tj T* ET
+BT 1 0 0 1 312.2558 18.4252 Tm (Quellen: offizielles GitHub-Partnermaterial \226 \304nderungen: github.blog/changelog) Tj T* ET
+Q
+q
+1 0 0 1 34.01575 624.6929 cm
+q
+.952941 .933333 .984314 rg
+n 0 146 256.5354 -146 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 9 126 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Die Umstellung auf einen Blick \(seit 01.06.2026\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 86 cm
+q
+BT 1 0 0 1 0 27.2 Tm /F1 10 Tf 12 TL .121569 .141176 .188235 rg (\177) Tj ET
+BT 1 0 0 1 8 27.2 Tm 1.5 0 Td 12 TL /F2 8.8 Tf .121569 .141176 .188235 rg (AI Credits statt Premium Requests:) Tj /F1 8.8 Tf ( abgerechnet wird) Tj T* -1.5 0 Td (die tats\344chliche Modell-Arbeit \226 tokenbasiert, zu) Tj T* (Modell-API-Preisen.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 60 cm
+q
+BT 1 0 0 1 0 15.2 Tm /F1 10 Tf 12 TL .121569 .141176 .188235 rg (\177) Tj ET
+BT 1 0 0 1 8 15.2 Tm 1.5 0 Td 12 TL /F2 8.8 Tf .121569 .141176 .188235 rg (1 Credit = 0,01 USD.) Tj /F1 8.8 Tf ( Budgets werden in USD gesetzt,) Tj T* -1.5 0 Td (Verbrauch in Credits angezeigt \(10 $ = 1.000 Credits\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 34 cm
+q
+BT 1 0 0 1 0 15.2 Tm /F1 10 Tf 12 TL .121569 .141176 .188235 rg (\177) Tj ET
+BT 1 0 0 1 8 15.2 Tm 1.5 0 Td 12 TL /F2 8.8 Tf .121569 .141176 .188235 rg (Grundpreise unver\344ndert:) Tj /F1 8.8 Tf ( Business 19 $/Nutzer/Monat) Tj T* -1.5 0 Td (inkl. 19 $ Credits \267 Enterprise 39 $ inkl. 39 $.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 8 cm
+q
+BT 1 0 0 1 0 15.2 Tm /F1 10 Tf 12 TL .121569 .141176 .188235 rg (\177) Tj ET
+BT 1 0 0 1 8 15.2 Tm 1.5 0 Td 12 TL /F2 8.8 Tf .121569 .141176 .188235 rg (Kein Fallback-Modell mehr:) Tj /F1 8.8 Tf ( Verbrauch wird \374ber) Tj T* -1.5 0 Td (Guthaben und Admin-Budgets gesteuert.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.847059 .858824 .886275 RG
+.75 w
+n 0 146 m 256.5354 146 l S
+n 0 0 m 256.5354 0 l S
+n 0 0 m 0 146 l S
+n 256.5354 0 m 256.5354 146 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 618.4567 cm
+Q
+q
+1 0 0 1 34.01575 511.4567 cm
+q
+.964706 .972549 .980392 rg
+n 0 107 256.5354 -107 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 9 87 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Die drei Token-Arten) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 8 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 62.5 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.8 Tm /F3 8.2 Tf 11 TL (Input) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.70709 51.5 cm
+q
+.121569 .141176 .188235 rg
+BT 1 0 0 1 0 13.6 Tm /F1 8.4 Tf 11 TL (was Sie senden: Prompt + Kontext \226 w\344chst mit) Tj T* (gro\337en Dateien) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 37.5 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.8 Tm /F3 8.2 Tf 11 TL (Output) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.70709 26.5 cm
+q
+.121569 .141176 .188235 rg
+BT 1 0 0 1 0 13.6 Tm /F1 8.4 Tf 11 TL (was Sie bekommen: Antwort + Tool-Nutzung \226) Tj T* (pro Token am teuersten) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 12.5 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.8 Tm /F3 8.2 Tf 11 TL (Cache) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.70709 1.5 cm
+q
+.121569 .141176 .188235 rg
+BT 1 0 0 1 0 13.6 Tm /F1 8.4 Tf 11 TL (wiederverwendeter Kontext \226 am g\374nstigsten,) Tj T* (macht Sessions effizient) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 J
+1 j
+.847059 .858824 .886275 RG
+.75 w
+n 0 107 m 256.5354 107 l S
+n 0 0 m 256.5354 0 l S
+n 0 0 m 0 107 l S
+n 256.5354 0 m 256.5354 107 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 505.2205 cm
+Q
+q
+1 0 0 1 34.01575 371.2205 cm
+q
+.964706 .972549 .980392 rg
+n 0 134 256.5354 -134 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 9 114 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Was kostet was?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 86 cm
+q
+BT 1 0 0 1 0 15.2 Tm /F1 10 Tf 12 TL .121569 .141176 .188235 rg (\177) Tj ET
+BT 1 0 0 1 8 15.2 Tm 1.5 0 Td 12 TL /F2 8.8 Tf .121569 .141176 .188235 rg (Flatrate \(keine Credits\):) Tj /F1 8.8 Tf ( Code Completions & Next Edit) Tj T* -1.5 0 Td (Suggestions \226 unbegrenzt in bezahlten Pl\344nen.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 60 cm
+q
+BT 1 0 0 1 0 15.2 Tm /F1 10 Tf 12 TL .121569 .141176 .188235 rg (\177) Tj ET
+BT 1 0 0 1 8 15.2 Tm 1.5 0 Td 12 TL /F2 8.8 Tf .121569 .141176 .188235 rg (Credits:) Tj /F1 8.8 Tf ( Chat \267 Edits \267 Agent Mode \267 Copilot CLI \267 Coding) Tj T* -1.5 0 Td (Agent \267 Spark & Spaces.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 34 cm
+q
+BT 1 0 0 1 0 15.2 Tm /F1 10 Tf 12 TL .121569 .141176 .188235 rg (\177) Tj ET
+BT 1 0 0 1 8 15.2 Tm 1.5 0 Td -0.00911 Tw 12 TL /F2 8.8 Tf .121569 .141176 .188235 rg (Credits + Actions-Minuten:) Tj /F1 8.8 Tf ( Copilot Code Review und der) Tj T* 0 Tw -1.5 0 Td (Coding Agent \(agentische Infrastruktur\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 8 cm
+q
+BT 1 0 0 1 0 15.2 Tm /F1 10 Tf 12 TL .121569 .141176 .188235 rg (\177) Tj ET
+BT 1 0 0 1 8 15.2 Tm 1.5 0 Td 12 TL /F2 8.8 Tf .121569 .141176 .188235 rg (Verbrauchstreiber:) Tj /F1 8.8 Tf ( Modellwahl, Prompt- & Antwortgr\366\337e,) Tj T* -1.5 0 Td (Kontext/Cache, agentische Workflows, MCP/Skills.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.847059 .858824 .886275 RG
+.75 w
+n 0 134 m 256.5354 134 l S
+n 0 0 m 256.5354 0 l S
+n 0 0 m 0 134 l S
+n 256.5354 0 m 256.5354 134 l S
+Q
+Q
+Q
+q
+1 0 0 1 304.7244 572.6929 cm
+q
+.964706 .972549 .980392 rg
+n 0 198 256.5354 -198 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 9 178 cm
+q
+BT 1 0 0 1 0 2.5 Tm 13 TL /F2 10.5 Tf .298039 .164706 .54902 rg (Pool & Budgets \226 so flie\337t das Geld) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 138 cm
+q
+BT 1 0 0 1 0 27.2 Tm /F1 10 Tf 12 TL .121569 .141176 .188235 rg (\177) Tj ET
+BT 1 0 0 1 8 27.2 Tm 1.5 0 Td 12 TL /F2 8.8 Tf .121569 .141176 .188235 rg (1. Pool zuerst:) Tj /F1 8.8 Tf ( Jede Lizenz zahlt ihr Credit-Guthaben in) Tj T* -1.5 0 Td (einen gemeinsamen Enterprise-Pool ein \226 alle Nutzer) Tj T* (sch\366pfen zuerst daraus.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 112 cm
+q
+BT 1 0 0 1 0 15.2 Tm /F1 10 Tf 12 TL .121569 .141176 .188235 rg (\177) Tj ET
+BT 1 0 0 1 8 15.2 Tm 1.5 0 Td 12 TL /F2 8.8 Tf .121569 .141176 .188235 rg (2. Budget = Zusatzausgaben:) Tj /F1 8.8 Tf ( Erst nach dem Pool greift) Tj T* -1.5 0 Td (das Budget \226 es erlaubt und begrenzt Mehrverbrauch.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 86 cm
+q
+BT 1 0 0 1 0 15.2 Tm /F1 10 Tf 12 TL .121569 .141176 .188235 rg (\177) Tj ET
+BT 1 0 0 1 8 15.2 Tm 1.5 0 Td 12 TL /F2 8.8 Tf .121569 .141176 .188235 rg (3. Ebenen:) Tj /F1 8.8 Tf ( Enterprise ) Tj /F4 8.8 Tf 12 TL (\256) Tj /F1 8.8 Tf 12 TL ( Organisation ) Tj /F4 8.8 Tf 12 TL (\256) Tj /F1 8.8 Tf 12 TL ( User \(universell) Tj T* -1.5 0 Td (oder individuell\) \226 plus Cost Center f\374r Teams.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 60 cm
+q
+BT 1 0 0 1 0 15.2 Tm /F1 10 Tf 12 TL .121569 .141176 .188235 rg (\177) Tj ET
+BT 1 0 0 1 8 15.2 Tm 1.5 0 Td 12 TL /F2 8.8 Tf .121569 .141176 .188235 rg (4. Alerts automatisch:) Tj /F1 8.8 Tf ( Warn-Mails an Admins bei 75 / 90) Tj T* -1.5 0 Td (/ 100 %.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 34 cm
+q
+BT 1 0 0 1 0 15.2 Tm /F1 10 Tf 12 TL .121569 .141176 .188235 rg (\177) Tj ET
+BT 1 0 0 1 8 15.2 Tm 1.5 0 Td 12 TL /F2 8.8 Tf .121569 .141176 .188235 rg (5. Budget erreicht = Stopp:) Tj /F1 8.8 Tf ( Betroffene sind blockiert bis) Tj T* -1.5 0 Td (Aufstockung oder neuer Abrechnungszyklus.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 8 cm
+q
+BT 1 0 0 1 0 15.2 Tm /F1 10 Tf 12 TL .121569 .141176 .188235 rg (\177) Tj ET
+BT 1 0 0 1 8 15.2 Tm 1.5 0 Td 12 TL /F2 8.8 Tf .121569 .141176 .188235 rg (6. Monitoring:) Tj /F1 8.8 Tf ( Die Billing-UI trennt inkludierte und) Tj T* -1.5 0 Td (zus\344tzliche Ausgaben \226 auch mitten im Zyklus.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.847059 .858824 .886275 RG
+.75 w
+n 0 198 m 256.5354 198 l S
+n 0 0 m 256.5354 0 l S
+n 0 0 m 0 198 l S
+n 256.5354 0 m 256.5354 198 l S
+Q
+Q
+Q
+q
+1 0 0 1 310.7244 566.4567 cm
+Q
+q
+1 0 0 1 304.7244 453.4567 cm
+q
+.964706 .972549 .980392 rg
+n 0 113 256.5354 -113 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 9 93 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Faustregeln zur Modellwahl) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 8 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 68.5 cm
+q
+BT 1 0 0 1 0 2.8 Tm 11 TL /F3 8.2 Tf .298039 .164706 .54902 rg (Alltag & Fragen) Tj T* ET
+Q
+Q
+q
+1 0 0 1 100.1849 68.5 cm
+q
+.121569 .141176 .188235 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.4 Tf 11 TL (Auto-Modus / Standardmodell) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 54.5 cm
+q
+BT 1 0 0 1 0 2.8 Tm 11 TL /F3 8.2 Tf .298039 .164706 .54902 rg (Boilerplate & Tests) Tj T* ET
+Q
+Q
+q
+1 0 0 1 100.1849 54.5 cm
+q
+BT 1 0 0 1 0 2.6 Tm 11 TL /F1 8.4 Tf .121569 .141176 .188235 rg (Auto-Modus \226 g\374nstig & schnell) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 29.5 cm
+q
+BT 1 0 0 1 0 13.8 Tm 11 TL /F3 8.2 Tf .298039 .164706 .54902 rg (Refactoring &) Tj T* (Architektur) Tj T* ET
+Q
+Q
+q
+1 0 0 1 100.1849 40.5 cm
+q
+.121569 .141176 .188235 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.4 Tf 11 TL (Frontier-Modell gezielt) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 15.5 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.8 Tm /F3 8.2 Tf 11 TL (Agent-Tasks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 100.1849 15.5 cm
+q
+.121569 .141176 .188235 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.4 Tf 11 TL (Frontier + /plan) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 1.5 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.8 Tm /F3 8.2 Tf 11 TL (Massen-Tasks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 100.1849 1.5 cm
+q
+.121569 .141176 .188235 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.4 Tf 11 TL (Mini-/Flash-Klasse) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 J
+1 j
+.847059 .858824 .886275 RG
+.75 w
+n 0 113 m 256.5354 113 l S
+n 0 0 m 256.5354 0 l S
+n 0 0 m 0 113 l S
+n 256.5354 0 m 256.5354 113 l S
+Q
+Q
+Q
+q
+1 0 0 1 310.7244 447.2205 cm
+Q
+q
+1 0 0 1 304.7244 373.2205 cm
+q
+.964706 .972549 .980392 rg
+n 0 74 256.5354 -74 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 9 54 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Kontrolle in der CLI) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 8 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 29.5 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.8 Tm /F3 8.2 Tf 11 TL (/usage) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.63386 29.5 cm
+q
+.121569 .141176 .188235 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.4 Tf 11 TL (Verbrauch der laufenden Session) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 15.5 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.8 Tm /F3 8.2 Tf 11 TL (/model) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.63386 15.5 cm
+q
+BT 1 0 0 1 0 2.6 Tm 11 TL /F1 8.4 Tf .121569 .141176 .188235 rg (aktives Modell & Angebot) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 1.5 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.8 Tm /F3 8.2 Tf 11 TL (/compact) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.63386 1.5 cm
+q
+.121569 .141176 .188235 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.4 Tf 11 TL (Verlauf k\374rzen \226 spart Tokens) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 J
+1 j
+.847059 .858824 .886275 RG
+.75 w
+n 0 74 m 256.5354 74 l S
+n 0 0 m 256.5354 0 l S
+n 0 0 m 0 74 l S
+n 256.5354 0 m 256.5354 74 l S
+Q
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 7 Tf
+8.4 TL
+ET
+0.35 0.35 0.35 rg
+BT
+1 0 0 1 132.0668 6 Tm
+(\251 2026 W\374stenrot \267 Reply \227 Alle Rechte vorbehalten\056 Vertraulich\054 nur f\374r interne Schulungszwecke\056) Tj
+T*
+ET
+q
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+/F2-0 46 Tf
+55.2 TL
+ET
+0.75 0.75 0.75 rg
+/gRLs0 gs
+BT
+1 0 0 1 -218.868 0 Tm
+(\251 W\374stenrot \267 Reply) Tj
+T*
+ET
+Q
+Q
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Courier-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Symbol
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/Contents 13 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.18
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 14 0 R
+/F2 8 0 R
+/F2-0 15 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+13 0 obj
+<<
+/Length 6996
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.431373 .25098 .788235 rg
+n 0 833.3858 595.2756 8.503937 re f*
+.121569 .141176 .188235 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 34.01575 814.9606 Tm (Usage-Based Billing & Prompt Best Practices) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+.341176 .376471 .415686 rg
+BT 1 0 0 1 453.6918 814.9606 Tm (Stand: Juli 2026 \267 Seite 2/2) Tj T* ET
+BT /F1 7 Tf 8.4 TL ET
+.341176 .376471 .415686 rg
+BT 1 0 0 1 34.01575 18.4252 Tm (Handout \267 GitHub Copilot Beginner-Workshop \267 Reply) Tj T* ET
+BT 1 0 0 1 312.2558 18.4252 Tm (Quellen: offizielles GitHub-Partnermaterial \226 \304nderungen: github.blog/changelog) Tj T* ET
+Q
+q
+1 0 0 1 34.01575 731.0394 cm
+q
+.952941 .933333 .984314 rg
+n 0 68 256.5354 -68 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 9 48 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Das Prompt-Rezept) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 8 cm
+q
+BT 1 0 0 1 0 27.2 Tm 12 TL /F2 8.8 Tf .121569 .141176 .188235 rg (Ziel in einem Satz + drei Randbedingungen +) Tj T* (gew\374nschtes Format.) Tj /F1 8.8 Tf ( Iterieren ist der normale) Tj T* (Arbeitsmodus \226 kein Scheitern.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.847059 .858824 .886275 RG
+.75 w
+n 0 68 m 256.5354 68 l S
+n 0 0 m 256.5354 0 l S
+n 0 0 m 0 68 l S
+n 256.5354 0 m 256.5354 68 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 724.8031 cm
+Q
+q
+1 0 0 1 34.01575 656.8031 cm
+q
+.964706 .972549 .980392 rg
+n 0 68 256.5354 -68 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 9 48 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (1 \267 Klare Instruktionen) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 8 cm
+q
+BT 1 0 0 1 0 27.2 Tm 12 TL /F1 8.8 Tf .121569 .141176 .188235 rg (Persona vorgeben \(\204agiere als Senior-Java-Engineer\223\),) Tj T* (Format & L\344nge nennen, Prompt-Teile mit Trennern) Tj T* (strukturieren, Schritte auflisten.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.847059 .858824 .886275 RG
+.75 w
+n 0 68 m 256.5354 68 l S
+n 0 0 m 256.5354 0 l S
+n 0 0 m 0 68 l S
+n 256.5354 0 m 256.5354 68 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 650.5669 cm
+Q
+q
+1 0 0 1 34.01575 594.5669 cm
+q
+.964706 .972549 .980392 rg
+n 0 56 256.5354 -56 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 9 36 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (2 \267 Referenzen mitgeben) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 8 cm
+q
+.121569 .141176 .188235 rg
+BT 1 0 0 1 0 15.2 Tm /F1 8.8 Tf 12 TL (Quelltext, Doku oder Spezifikation anh\344ngen und darauf) Tj T* (verweisen \226 senkt selbstbewusst-falsche Antworten deutlich.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.847059 .858824 .886275 RG
+.75 w
+n 0 56 m 256.5354 56 l S
+n 0 0 m 256.5354 0 l S
+n 0 0 m 0 56 l S
+n 256.5354 0 m 256.5354 56 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 588.3307 cm
+Q
+q
+1 0 0 1 34.01575 520.3307 cm
+q
+.964706 .972549 .980392 rg
+n 0 68 256.5354 -68 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 9 48 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (3 \267 Komplexes zerlegen) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 8 cm
+q
+.121569 .141176 .188235 rg
+BT 1 0 0 1 0 27.2 Tm /F1 8.8 Tf 12 TL (Gro\337e Aufgaben haben \374berproportional hohe Fehlerraten.) Tj T* (Kleine, pr\374fbare Teilschritte beauftragen; lange Dialoge) Tj T* (zusammenfassen.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.847059 .858824 .886275 RG
+.75 w
+n 0 68 m 256.5354 68 l S
+n 0 0 m 256.5354 0 l S
+n 0 0 m 0 68 l S
+n 256.5354 0 m 256.5354 68 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 514.0945 cm
+Q
+q
+1 0 0 1 304.7244 743.0394 cm
+q
+.964706 .972549 .980392 rg
+n 0 56 256.5354 -56 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 9 36 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (4 \267 Denkzeit geben) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 8 cm
+q
+.121569 .141176 .188235 rg
+BT 1 0 0 1 0 15.2 Tm /F1 8.8 Tf 12 TL (Erst den L\366sungsweg erkl\344ren lassen, dann den Code \226 das) Tj T* (Modell \204reflektiert\223 und konvergiert zu besseren Antworten.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.847059 .858824 .886275 RG
+.75 w
+n 0 56 m 256.5354 56 l S
+n 0 0 m 256.5354 0 l S
+n 0 0 m 0 56 l S
+n 256.5354 0 m 256.5354 56 l S
+Q
+Q
+Q
+q
+1 0 0 1 310.7244 736.8031 cm
+Q
+q
+1 0 0 1 304.7244 668.8031 cm
+q
+.964706 .972549 .980392 rg
+n 0 68 256.5354 -68 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 9 48 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (5 \267 Externe Tools nutzen) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 8 cm
+q
+.121569 .141176 .188235 rg
+BT 1 0 0 1 0 27.2 Tm /F1 8.8 Tf 12 TL (Tests, Linter und Compiler pr\374fen zuverl\344ssiger als das) Tj T* (Modell selbst \226 \204\205 und f\374hr mvn -q test aus\223 geh\366rt in den) Tj T* (Auftrag.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.847059 .858824 .886275 RG
+.75 w
+n 0 68 m 256.5354 68 l S
+n 0 0 m 256.5354 0 l S
+n 0 0 m 0 68 l S
+n 256.5354 0 m 256.5354 68 l S
+Q
+Q
+Q
+q
+1 0 0 1 310.7244 662.5669 cm
+Q
+q
+1 0 0 1 304.7244 606.5669 cm
+q
+.964706 .972549 .980392 rg
+n 0 56 256.5354 -56 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 9 36 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (6 \267 Systematisch testen) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 8 cm
+q
+.121569 .141176 .188235 rg
+BT 1 0 0 1 0 15.2 Tm /F1 8.8 Tf 12 TL (Prompt-\304nderungen wie Code-\304nderungen behandeln:) Tj T* (vergleichen, messen, behalten was wirkt.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.847059 .858824 .886275 RG
+.75 w
+n 0 56 m 256.5354 56 l S
+n 0 0 m 256.5354 0 l S
+n 0 0 m 0 56 l S
+n 256.5354 0 m 256.5354 56 l S
+Q
+Q
+Q
+q
+1 0 0 1 310.7244 600.3307 cm
+Q
+q
+1 0 0 1 304.7244 504.3307 cm
+q
+.952941 .933333 .984314 rg
+n 0 96 256.5354 -96 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 9 76 cm
+q
+.298039 .164706 .54902 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Die drei Merks\344tze) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 48 cm
+q
+BT 1 0 0 1 0 15.2 Tm /F1 10 Tf 12 TL .121569 .141176 .188235 rg (\177) Tj ET
+BT 1 0 0 1 8 15.2 Tm 1.5 0 Td 12 TL /F1 8.8 Tf .121569 .141176 .188235 rg (Copilot ist ) Tj /F2 8.8 Tf (Assistent, nicht Autopilot) Tj /F1 8.8 Tf ( \226 jedes Ergebnis) Tj T* -1.5 0 Td (wird gereviewt.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 22 cm
+q
+BT 1 0 0 1 0 15.2 Tm /F1 10 Tf 12 TL .121569 .141176 .188235 rg (\177) Tj ET
+BT 1 0 0 1 8 15.2 Tm 1.5 0 Td 12 TL /F2 8.8 Tf .121569 .141176 .188235 rg (Kontext + pr\344ziser Prompt) Tj /F1 8.8 Tf ( schlagen jedes) Tj T* -1.5 0 Td (Modell-Upgrade.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 8 cm
+q
+BT 1 0 0 1 0 3.2 Tm /F1 10 Tf 12 TL .121569 .141176 .188235 rg (\177) Tj ET
+BT 1 0 0 1 8 3.2 Tm 1.5 0 Td 12 TL /F2 8.8 Tf .121569 .141176 .188235 rg (Verstehen, dann ausf\374hren) Tj /F1 8.8 Tf ( \226 besonders im Terminal.) Tj T* -1.5 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.847059 .858824 .886275 RG
+.75 w
+n 0 96 m 256.5354 96 l S
+n 0 0 m 256.5354 0 l S
+n 0 0 m 0 96 l S
+n 256.5354 0 m 256.5354 96 l S
+Q
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 7 Tf
+8.4 TL
+ET
+0.35 0.35 0.35 rg
+BT
+1 0 0 1 132.0668 6 Tm
+(\251 2026 W\374stenrot \267 Reply \227 Alle Rechte vorbehalten\056 Vertraulich\054 nur f\374r interne Schulungszwecke\056) Tj
+T*
+ET
+q
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+/F2-0 46 Tf
+55.2 TL
+ET
+0.75 0.75 0.75 rg
+/gRLs0 gs
+BT
+1 0 0 1 -218.868 0 Tm
+(\251 W\374stenrot \267 Reply) Tj
+T*
+ET
+Q
+Q
+
+endstream
+endobj
+14 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+15 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000444 00000 n 
+0000000510 00000 n 
+0000000559 00000 n 
+0000000875 00000 n 
+0000012403 00000 n 
+0000012510 00000 n 
+0000012617 00000 n 
+0000012729 00000 n 
+0000012841 00000 n 
+0000012952 00000 n 
+0000013030 00000 n 
+0000013350 00000 n 
+0000020399 00000 n 
+0000020507 00000 n 
+trailer
+<<
+/Size 16
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+20620
+%%EOF
