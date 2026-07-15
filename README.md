@@ -7,6 +7,7 @@ Ein Ordner pro Modul, jede Übung mit eigener `AUFGABE.md`.
 
 - **GitHub Copilot CLI**: `npm install -g @github/copilot` (Node ≥ 22), danach `copilot` → `/login`
 - JDK 21 und Maven 3.9+ (`java -version`, `mvn -version`)
+- Alle Module sind für Java 21 ausgelegt und nutzen moderne Sprachfeatures dieser Version.
 - Aktive Copilot-Lizenz (Login auf github.com prüfen) + CLI in der Org-Policy freigeschaltet
 - Optional, nur für Modul 5: IntelliJ mit GitHub-Copilot-Plugin
 - Windows: Windows Terminal empfohlen; GitBash (bei Git für Windows dabei) deckt alle Bash-Beispiele ab, PowerShell-Varianten liegen bei
@@ -32,3 +33,9 @@ mvn -q test        # optional: Build-Check, sollte ohne Fehler durchlaufen
 
 `AGENTS.md` (Repo-Root) ist bewusst minimal und wird in **Übung 2 /
 Task C** erweitert, um die Wirkung live zu testen.
+
+## Material-Archiv (V2)
+
+Für die Workshop-V2-Materialien wurde der Ordner `Matierlas/` ergänzt.
+Zusätzlich liegt der bestehende `cheat-sheets/`-Inhalt als Archivkopie unter
+`archiv/cheat-sheets/`.
